@@ -1,6 +1,6 @@
 # Basic-chatbot
 # Work in progress
-This is a basic chatbot with GUI.
+This is a basic chatbot with GUI using cosine similarity.
 
 Data for this chatbot are scraped in the program from http://notsocleverbot.jimrule.com/
 
